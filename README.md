@@ -12,7 +12,7 @@ Checkout the live demo here : https://abhayaagr.github.io/Tic-Tac-Toe/
 
 ## 📂 Project Structure
 
-📦 Tic-Tac-Toe 
+📦 Tic-Tac-Toe <br />
 ├── 📄 index.html # Main HTML file <br />
 ├── 🎨 style.css  # CSS file for styling <br />
 ├── ⚙️ script.js  # JavaScript file for game logic <br />
