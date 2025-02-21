@@ -13,9 +13,9 @@ Checkout the live demo here : https://abhayaagr.github.io/Tic-Tac-Toe/
 ## 📂 Project Structure
 
 📦 Tic-Tac-Toe 
-├── 📄 index.html # Main HTML file 
-├── 🎨 style.css  # CSS file for styling 
-├── ⚙️ script.js  # JavaScript file for game logic
+├── 📄 index.html # Main HTML file <br />
+├── 🎨 style.css  # CSS file for styling <br />
+├── ⚙️ script.js  # JavaScript file for game logic <br />
 
 ## 🎯 How to Play?
 
